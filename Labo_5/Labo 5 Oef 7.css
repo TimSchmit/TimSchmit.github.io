@@ -1,0 +1,8 @@
+h1 {
+    font-family: Arial, serif;
+    font-size: 2ex;
+}
+h2 {
+    font-family: Arial, serif;
+    font-size: 2em; /*kijk naar hoogste en laagste en neemt 2 keer de grootte*/
+}

@@ -1,12 +1,16 @@
 
 h1 {
     font-family: Arial, serif;
-    font-size: 2ex;
+    font-size: 1.8em;
 }
 h2{
     font-family: Arial, serif;
-    font-size: 2em;
+    font-size: 1.5em;
 }
+/*h3{   Absolute fontsize ABSOLUUT NIET GEBRUIKTEN !!!
+    font-size: 12px;
+}
+ */
 h3{
     font-family: Arial, serif;
     font-size: 1.4em;
