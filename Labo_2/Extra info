@@ -1,0 +1,7 @@
+Oef 4
+&nbsp geeft extra witruimte tussen woorden
+<br /> maakt een spatie
+    Deze gebruikt men enkel in mate. Stijl wordt vooral in CSS.
+
+Oef 5
+Om &nbsp; en <br/> in de browser weer te geven moet men in paats "&amp;nbsp;" en "&lt;br /&gt;" schrijven.
