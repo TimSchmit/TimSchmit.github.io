@@ -15,18 +15,19 @@ h3{
     font-family: Arial, serif;
     font-size: 1.4em;
 }
-.P1{
-    color: red;
+p{
     font-family: "Times New Roman", serif;
     font-size: 1.2em;
+}
+.P1{
+    color: red;
+
 }
 .P2{
     color: green;
-    font-family: "Times New Roman", serif;
-    font-size: 1.2em;
+
 }
 .P3{
     color: blue;
-    font-family: "Times New Roman", serif;
-    font-size: 1.2em;
+
 }
