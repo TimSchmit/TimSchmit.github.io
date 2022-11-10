@@ -2,6 +2,6 @@
     display:inline-block;
     width:150px;
 }
-.menuitem > a {
+li > a {
     color:red;
 }
