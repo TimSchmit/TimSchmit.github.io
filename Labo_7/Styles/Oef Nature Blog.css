@@ -1,0 +1,21 @@
+.Header{
+    color: white;
+    background-image: url(../Pictures/header.jpg);
+    padding-bottom: 2em;
+    margin-bottom: 0;
+}
+nav{
+    background-color: #444444;
+
+}
+.a{
+    color: #55F78E;
+}
+article{
+    background-color: #EEEEEE;
+    padding-top: 1px;
+    margin-top: 5px;
+}
+.Artikel{
+    font-size: 2em;
+}

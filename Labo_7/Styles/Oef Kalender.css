@@ -1,0 +1,28 @@
+.Grey{
+    background: lightgray;
+}
+
+.Weekend{
+    background: rgb(255, 220, 220);
+}
+
+th{
+    border: 1px dotted black;
+}
+
+
+tr:first-child{
+    background: rgb(170,170,200);
+}
+tr:nth-child(2) {
+    color: rgb(200,190,240);
+    background: rgb(35,37,70);
+
+}
+
+.Special{
+    background: rgb(170,170,200);
+}
+
+
+
