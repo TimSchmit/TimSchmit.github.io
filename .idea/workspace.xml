@@ -25,24 +25,30 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2GRSvtDF5pANuCNJy8MMWnjFK1E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Tim/Documents/webdevelopment/TimSchmit.github.io/Labo_7",
-    "list.type.of.created.stylesheet": "CSS",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tim/Documents/webdevelopment/TimSchmit.github.io/Labo_5&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_5" />
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_4" />
       <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_7" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_4\Pictures" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.Index.html">
@@ -81,7 +87,13 @@
       <workItem from="1668288913871" duration="1449000" />
       <workItem from="1668512232764" duration="426000" />
       <workItem from="1668690250914" duration="13102000" />
-      <workItem from="1668768165766" duration="13806000" />
+      <workItem from="1668768165766" duration="14616000" />
+      <workItem from="1668942404425" duration="7552000" />
+      <workItem from="1669236735701" duration="1128000" />
+      <workItem from="1669370781088" duration="6747000" />
+      <workItem from="1669377846263" duration="3000" />
+      <workItem from="1669904261250" duration="11514000" />
+      <workItem from="1669923104269" duration="4244000" />
     </task>
     <servers />
   </component>

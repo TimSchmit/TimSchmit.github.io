@@ -1,0 +1,61 @@
+html{
+    font-family: Verdana;
+    font-size: 1.2em;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.rest{
+    width: 25%;
+    float: right;
+    background-image: url(../images/cocktail.gif);
+    padding-left: 50px;
+    padding-right: 50px;
+}
+section{
+    width: 70%;
+    float: left;
+}
+.doos{
+    margin: 30px;
+    padding: 20px;
+    color: #444444;
+    background-color: #a7cece;
+    border: 1px dotted white;
+}
+.titel{
+    color: #007e7e;
+}
+.naam{
+    color: #AE3E59;
+    display: flex;
+    justify-content: center;
+}
+.week{
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+.ster{
+    float: left;
+    height: 55px;
+}
+h1{
+    font-size: 150%;
+}
+h2{
+
+    font-size: 130%;
+}
+footer{
+    width: 100%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    float: left;
+    font-size: 50%;
+}
