@@ -9,11 +9,13 @@ html{
     margin-right: auto;
 }
 .rest{
-    width: 25%;
+    width: 30%;
     float: right;
-    background-image: url(../images/cocktail.gif);
-    padding-left: 50px;
-    padding-right: 50px;
+    background: url(../images/cocktail.gif) repeat-x;
+    padding: 2%;
+    line-height: 1;
+    box-sizing: border-box;
+    border: 1px solid black;
 }
 section{
     width: 70%;

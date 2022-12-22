@@ -10,8 +10,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -30,24 +30,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tim/Documents/webdevelopment/TimSchmit.github.io/Labo_5&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Tim/Documents/webdevelopment/TimSchmit.github.io/Examen december",
+    "list.type.of.created.stylesheet": "CSS",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_5" />
-      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_4" />
-      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_7" />
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Examen december" />
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_11" />
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_10" />
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_9" />
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Examen december\Deel CSS\Bootstrap" />
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_11\Demo" />
       <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_4\Pictures" />
     </key>
   </component>
@@ -94,6 +98,12 @@
       <workItem from="1669377846263" duration="3000" />
       <workItem from="1669904261250" duration="11514000" />
       <workItem from="1669923104269" duration="4244000" />
+      <workItem from="1669976118546" duration="7105000" />
+      <workItem from="1670581251084" duration="4899000" />
+      <workItem from="1671113023775" duration="11902000" />
+      <workItem from="1671185551704" duration="7231000" />
+      <workItem from="1671286658519" duration="7140000" />
+      <workItem from="1671720043363" duration="4731000" />
     </task>
     <servers />
   </component>

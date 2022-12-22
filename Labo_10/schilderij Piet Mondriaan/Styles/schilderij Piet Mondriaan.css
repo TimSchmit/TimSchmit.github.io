@@ -1,0 +1,93 @@
+.container {
+    max-width: 900px;
+
+
+}
+div[class*='col']{
+
+}
+
+.box-1 {
+    background-color: red;
+    height: 150px;
+    border: 5px solid black;
+}
+
+.box-2 {
+    background-color: white;
+    height: 150px;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+.box-3{
+    height: 150px;
+    border: 5px solid black;
+}
+.box-4{
+    border-bottom: 5px solid black;
+    height: 50%;
+
+}
+.box-5{
+    background-color: #ffee92;
+    height: 75px;
+    border-bottom:5px solid black;
+}
+
+.box-6{
+    border-right:5px solid black;
+}
+
+.box-7{
+
+}
+.box-8 {
+    background-color:blue;
+    height: 75px;
+}
+
+.box-9 {
+    background-color: white;
+    height: 150px;
+    border-left: 5px solid black;
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+}
+.box-10{
+    height: 75px;
+}
+
+
+
+/* Media Query */
+
+@media (max-width: 767px) {
+
+    .mybox-1, .mybox-2, .mybox-3, .mybox-4, .mybox-5, .mybox-6,.mybox-7,.mybox-8, .mybox-9 {
+        padding-top: 0.3rem;
+    }
+
+    .mybox-2, .mybox-7, .mybox-8, .mybox-9 {
+        border-left: 0px;
+    }
+
+    .mybox-1, .mybox-2 {
+        height: 12rem;
+    }
+}
+
+@media (max-width: 576px) {
+
+    .mybox-4, .mybox-6 {
+        border-left: 0;
+    }
+
+    .mybox-1, .mybox-2, .mybox-3, .mybox-4, .mybox-5, .mybox-6,.mybox-7,.mybox-8, .mybox-9 {
+        padding-top: 0.2rem;
+    }
+
+    .mybox-1, .mybox-2 {
+        height: 12rem;
+    }
+}

@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    margin: 0;
+}
+header {
+
+    text-align:center;
+    background-color:lightsteelblue;
+}
+
+#left {
+    float: left;
+    width: 75%;
+    background-color:lightblue;
+    min-height: 200px;
+}
+
+#right {
+    float: left;
+    width: 25%;
+    background-color:lightcoral;
+    min-height: 200px;
+}
+
+footer {
+    clear: both;
+    text-align:center;
+    background-color:lightgreen;
+}
