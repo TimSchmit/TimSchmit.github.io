@@ -10,6 +10,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="HTML File" />
       </list>
@@ -36,30 +37,32 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Tim/Documents/webdevelopment/TimSchmit.github.io/Examen december",
+    "last_opened_file_path": "C:/Users/Tim/Documents/webdevelopment/TimSchmit.github.io/Labo_12",
     "list.type.of.created.stylesheet": "CSS",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Examen december" />
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_12" />
       <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_11" />
       <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_10" />
       <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_9" />
       <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Examen december\Deel CSS\Bootstrap" />
-      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_11\Demo" />
-      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_4\Pictures" />
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_9\Oefeningen" />
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_8\Oefeningen\Voorbeelden" />
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_8\Oefeningen" />
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_7\Oefeningen" />
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_6\Oefeningen" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.Index.html">
-    <configuration name="Index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TimSchmit.github.io/Index.html" useBuiltInWebServerPort="true">
+    <configuration name="Index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TimSchmit.github.io/Index/Index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Labo 5 Oef 6.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TimSchmit.github.io/Labo_5/Labo 5 Oef 6.html" useBuiltInWebServerPort="true">
+    <configuration name="Labo 5 Oef 6.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TimSchmit.github.io/Labo_5/Oefeningen/Labo 5 Oef 6.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -104,6 +107,7 @@
       <workItem from="1671185551704" duration="7231000" />
       <workItem from="1671286658519" duration="7140000" />
       <workItem from="1671720043363" duration="4731000" />
+      <workItem from="1671790003936" duration="36603000" />
     </task>
     <servers />
   </component>
