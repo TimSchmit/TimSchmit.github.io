@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42d75c8e-9431-4c9d-9b20-669b157959f5" name="Changes" comment="" />
+    <list default="true" id="42d75c8e-9431-4c9d-9b20-669b157959f5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +12,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -31,17 +33,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tim/Documents/webdevelopment/TimSchmit.github.io/Labo_12&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Tim/Documents/webdevelopment/Examenvoorbereiding december/Deel CSS/Flexbox",
+    "list.type.of.created.stylesheet": "CSS",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_12" />
@@ -108,7 +111,18 @@
       <workItem from="1671286658519" duration="7140000" />
       <workItem from="1671720043363" duration="4731000" />
       <workItem from="1671790003936" duration="36728000" />
-      <workItem from="1672068087868" duration="991000" />
+      <workItem from="1672068087868" duration="1031000" />
+      <workItem from="1672163708782" duration="20000" />
+      <workItem from="1673897740219" duration="4784000" />
+      <workItem from="1673969361993" duration="9382000" />
+      <workItem from="1673991840599" duration="13000" />
+      <workItem from="1674030416227" duration="3227000" />
+      <workItem from="1675857393161" duration="31000" />
+      <workItem from="1676037095757" duration="4033000" />
+      <workItem from="1677780546776" duration="12704000" />
+      <workItem from="1677863900513" duration="1895000" />
+      <workItem from="1677890177744" duration="1792000" />
+      <workItem from="1678385106162" duration="48000" />
     </task>
     <servers />
   </component>

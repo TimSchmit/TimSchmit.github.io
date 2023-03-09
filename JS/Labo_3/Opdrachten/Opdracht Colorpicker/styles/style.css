@@ -1,0 +1,8 @@
+.colorDemo {
+    display: inline-block;
+    width:5em;
+    height:4em;
+    margin: 0 0 0 1em;
+    border-radius: 5px;
+    border:1px solid black;
+}
