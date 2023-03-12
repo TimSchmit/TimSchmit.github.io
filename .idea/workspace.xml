@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42d75c8e-9431-4c9d-9b20-669b157959f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JS/Labo_4/Opdrachten/Opdracht Man van An/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_4/Opdrachten/Opdracht Man van An/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_4/Opdrachten/Opdracht Man van An/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_4/Opdrachten/Opdracht Spaties met functie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_4/Opdrachten/Opdracht Spaties met functie/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_4/Opdrachten/Opdracht Spaties met functie/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_4/Opdrachten/Opdracht_invulformulier/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_4/Opdrachten/Opdracht_invulformulier/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_4/Opdrachten/Opdracht_invulformulier/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_4/Opdrachten/Opdracht_spaties_op_console/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_4/Opdrachten/Opdracht_spaties_op_console/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_4/Opdrachten/Opdracht_spaties_op_console/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/Labo_3/Opdrachten/Opdracht Producten/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Labo_3/Opdrachten/Opdracht Producten/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/Labo_3/Opdrachten/Opdracht Producten/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Labo_3/Opdrachten/Opdracht Producten/scripts/code.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +51,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tim/Documents/webdevelopment/Examenvoorbereiding december/Deel CSS/Flexbox&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tim/Documents/webdevelopment/TimSchmit.github.io/JS/Labo_4/Opdrachten&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -49,11 +59,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\JS\Labo_4\Opdrachten" />
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\JS\Labo_4\Opdrachten\Opdracht Spaties met functie\scripts" />
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\JS\Labo_4\Opdrachten\Opdracht Spaties met functie" />
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\JS\Labo_4\Demo" />
       <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_12" />
-      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_11" />
-      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_10" />
-      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_9" />
-      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_9\Oefeningen" />
@@ -125,7 +135,9 @@
       <workItem from="1677863900513" duration="1895000" />
       <workItem from="1677890177744" duration="1792000" />
       <workItem from="1678385106162" duration="3687000" />
-      <workItem from="1678449557402" duration="2445000" />
+      <workItem from="1678449557402" duration="3270000" />
+      <workItem from="1678454545195" duration="11602000" />
+      <workItem from="1678650981700" duration="16000" />
     </task>
     <servers />
   </component>
