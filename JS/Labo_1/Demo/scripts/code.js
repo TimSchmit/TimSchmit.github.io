@@ -15,7 +15,7 @@ const show = () => {
         alert("jouw naam is " + txtName.value)
         console.log("jouw naam is " + txtName.value)
 
-        console.log(`jouw naam is  + txtName.value\`)
+        console.log("jouw naam is " + txtName.value)
     }else{
         alert("!!! Gelieve jouw naam in te vullen !!!")
     }
