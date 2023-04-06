@@ -2,25 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42d75c8e-9431-4c9d-9b20-669b157959f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JS/Labo_3/Opdrachten/Oplossing Producten/dir/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo_3/Opdrachten/Oplossing Producten/dir/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo_3/Opdrachten/Oplossing Producten/dir/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo_5/Demo/dir/Image/BootDock.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo_5/Demo/dir/Image/Lama.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo_5/Demo/dir/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo_5/Demo/dir/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo_5/Demo/dir/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo_5/Opdrachten/Opdracht De en Het/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo_5/Opdrachten/Opdracht De en Het/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo_5/Opdrachten/Opdracht De en Het/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo_5/Opdrachten/Opdracht Gemeenten/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo_5/Opdrachten/Opdracht Gemeenten/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo_5/Opdrachten/Opdracht Gemeenten/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo_5/Opdrachten/Opdracht Trigrams/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo_5/Opdrachten/Opdracht Trigrams/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo_5/Opdrachten/Opdracht Trigrams/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_6/Demo/CreateNode/dir/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_6/Demo/CreateNode/dir/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_6/Demo/CreateNode/dir/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_6/Demo/Nodes/dir/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_6/Demo/Nodes/dir/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_6/Demo/Nodes/dir/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_6/Demo/demo1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_6/Demo/demo1/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_6/Demo/demo1/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_6/Opdrachten/Opdracht 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_6/Opdrachten/Opdracht 2/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_6/Opdrachten/Opdracht 2/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_6/Opdrachten/Opdracht 3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_6/Opdrachten/Opdracht 3/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_6/Opdrachten/Opdracht 3/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_6/Opdrachten/Opdracht Colorpicker uitbereiding/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_6/Opdrachten/Opdracht Colorpicker uitbereiding/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_6/Opdrachten/Opdracht Colorpicker uitbereiding/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_6/Opdrachten/Opdracht QuerySelectorAll/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_6/Opdrachten/Opdracht QuerySelectorAll/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_6/Opdrachten/Opdracht QuerySelectorAll/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_6/demo event bubbling/demo event bubbling/demo event bubbling/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_6/demo event bubbling/demo event bubbling/demo event bubbling/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo_6/demo event bubbling/demo event bubbling/demo event bubbling/styles/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/Labo_1/Demo/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Labo_1/Demo/scripts/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index/Style/Index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Index/Style/Index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_1/Labo 1 - Internet en HTTP(1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_1/Labo 1 word.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,18 +55,21 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2GRSvtDF5pANuCNJy8MMWnjFK1E" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tim/Documents/webdevelopment/TimSchmit.github.io/JS/Labo_5/Opdrachten&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tim/Documents/webdevelopment/TimSchmit.github.io&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -65,18 +77,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\JS\Labo_6\Opdrachten" />
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\JS\Labo_6\Demo\demo1\CreateNode" />
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\JS\Labo_6\Demo\demo1\Nodes" />
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\JS\Labo_6\Demo" />
       <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\JS\Labo_5\Opdrachten" />
-      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\JS\Labo_3\Opdrachten\Oplossing Producten" />
-      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\JS\Labo_5\Demo\dir\Image" />
-      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\JS\Labo_5\Demo" />
-      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\JS\Labo_4\Opdrachten" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\JS\Labo_6\Demo" />
       <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_9\Oefeningen" />
       <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_8\Oefeningen\Voorbeelden" />
       <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_8\Oefeningen" />
       <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_7\Oefeningen" />
-      <recent name="C:\Users\Tim\Documents\webdevelopment\TimSchmit.github.io\Labo_6\Oefeningen" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.Index.html">
@@ -145,7 +157,12 @@
       <workItem from="1678454545195" duration="11602000" />
       <workItem from="1678650981700" duration="16000" />
       <workItem from="1678694164374" duration="6466000" />
-      <workItem from="1678991934925" duration="2085000" />
+      <workItem from="1678991934925" duration="2905000" />
+      <workItem from="1679058762403" duration="7678000" />
+      <workItem from="1679640412816" duration="36000" />
+      <workItem from="1679656986245" duration="837000" />
+      <workItem from="1679995891188" duration="6478000" />
+      <workItem from="1680484652105" duration="5140000" />
     </task>
     <servers />
   </component>
@@ -162,5 +179,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
